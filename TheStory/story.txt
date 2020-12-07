@@ -1,0 +1,111 @@
+Ok, so let me troll a little bit about the whole idea behind p9c and the one to rule them all Smiley
+
+Of course, I meant on ParallelCoin as one to rule them all, but let's see why.
+Deja vu?
+
+In the beginning, there was Unics, later Unix developed at Bell Labs for AT&T.
+...
+Bell Labs were Ken Thompson, Dennis Ritchie, Rob Pike, and others.
+Like many other visionaries, some of them made the step forward creating in that time "not possible to succeed because of infrastructure" distributed operating system, called plan9.
+Ken Thompson developed plan9 as open source and it does not build on UNIX source code.
+Plan9 is really funny and not easy to understand the operating system as there every fucking thing is a service. Everything you see you can change "at the fly", anyhow not meant to be widely used but only for specific users as developers and industrial. As Wikipedia says "Under Plan 9, UNIX's everything is a file metaphor is extended via a pervasive network-centric filesystem, and the cursor-addressed, terminal-based I/O at the heart of UNIX-like operating systems is replaced by a windowing system and graphical user interface without cursor addressing, although rc, the Plan 9 shell, is text-based." That is a little bit hard for some to perceive at all.
+
+
+Anyhow, for that kind of network usages which plan9 was hungry to take even local networks were not capable to handle at a large scale.
+Rob Pike was there in the crew and after finishing the manual for Unix and married Renée French, he gave her the task to make the mascot.
+That is how we got Glenda!
+
+
+DON'T FORGET TO FOLLOW THE WHITE RABBIT
+
+Glenda is character from Ed Wood's movie Glen or Glenda as plan9 is of course the most famous Plan 9 from Outer Space
+All that was in time from let's say 1985 till 1995.
+And for that time most of the people thought that plan9 is forgotten history. Even Bell Labs is now Nokia.
+But, plan9 as code itself and those binaries there you can download and try are not as crucial as how important for the story is the concept of a distributed operating system in principle.
+Plan9 is not something you can see, or have but you can feel it.
+As our memories are based on feelings from that time, of course, that when the largest company Google on the market organize Ken Thompson and Rob Pike to create a programing language meant to eventually replace C++ they will make that language absolutely with all and pure that feeling from 20-30 years ago.
+That is how "Go" programming language was born and how not even that has the color of its eyes on its mother but it has even toots like all those puffy little creatures with big front teeth.
+History repeating so Rob's wife again create the mascot for which I love when people not knowing the true meaning and level of knowledge of the author comment as childish, considering Rainy Dohaney as known comics writer and illustrator, mostly for kids stuff.
+Some will say now, what the hell I am talking now, but those are those guys who will never understand that feeling and always want to see and to touch, not considering mind as endless emotion, but the whole life waiting for NASA to tell them that there is life in the cosmos. Btw, which will probably turn that there is out as in same density as here on the earth. Flat or not, who cares, "Eppur si muove"!
+
+
+
+It was very noticeable that many of the early people in Go were, let's say not workers programmers but artist programmers, all those guys which were ready to create something not to just write code as everybody does in terms of jobs and the nature of making money at all. That is why today we can see so many opensource Go packages and that is why many Python guys jump over into the Go realm. More than ten years ago many web services went to Python. I mean many things were written in Python, they are still today of course, and still many people write APIs in it, but man, from this perspective Python, is so old like PHP. Comparing with Go, which is not right anyhow as, just for the start, one is interpreted and the other compiled, Go is typically 40 times faster. Go is made to allow Google to use as much as it can from hardware in service as Moore's law is broken and IT power went in some strange way where we don't have programming language capable to use 100% of the hardware. Most of the existing languages were created with the philosophy of that moment when many of those concepts in hardware used today were not even on a drawing board.
+
+Cutting a very long story and the discussion on the topic of which programming language is better for this or that I will jump straightaway to the point why we are here and how "Go" fit technology because which some of us think to succeed to change the world on better.
+
+Knowing what an API is and feeling that the whole concept of communications between everything in patents, around and beyond the blockchain technology, is done by that application interface principle we can combine plan9 philosophies with Go tools to get fantastic results in terms of technology improvements.
+Just check which are the coins using Go as a development tool. You will be surprised. And the best thing is even is that all they can communicate with each other because the only important thing is the protocol of commands of a certain app. An app can be a blockchain node or wallet, or a control interface which communicates with node app and wallet app. Anyhow the whole point is all they are basically interfaces for a specific purpose, which if we use all knowledge we got from Ed Wood's movies to release the imagination to the point where you don't need any driver software or any other cable than a network cable, optic or whatever, the way of communication is only important.
+
+For the start, we are releasing new source code, almost 99.98% pure Go Smiley
+
+
+
+Like there were Lakota Indians and the guy who went with a canoe to buy Shiba Inu, and many many other good stories which, to be honest, offer nothing at the end. Although Payu Harris great respect!
+Besides all things that happened in the period before any thoughts of Go, while in some moments mostly trax0r was holding the proof of our existence, from the day Loki enters our realm things become to get exponentially crazier. Don't even try to say that I am crazy Tongue
+If I told you the story about how I went to pick Loki from Belovo in Bulgaria you would hardly believe me. With whole start me kicking a wall with another car and ladies telling me "excuse me, your front plates are felt down", with cops in my car from Belgrade to Nis, with me at 3-4AM in Bulgaria 50KM of the main road on some narrow forest road when some guys started chasing me with Lada Niva, luckily mine was BMW328 300hp. On the way back, at the border policeman ask me does Loki have some weed, as Loki has a Netherlands passport, the policeman logically concluded. Loki's cat Meko said "mjao" from the cage on the last seat but I said "Shame on you from, from all programmers in Serbia I need to go to Bulgaria to get an Australian guy to help me work with Go". "What?" he said, "Yes, yes, you heard me well" - I said, he looked at me with his "Ferdinand bull" eyes and said, "You can go".
+The months of learnings and completely devastating financial retardations from my side led to not being able to support Loki with money, even he was living in my apartment on another side of the town. As we have the enthusiasm to make ParallelCoin's update Loki started living at my house, but after a few months, we had a verbal conflict after which he went to Bosnia. The trip to Bosnia was arranged by my old friend from teenage days, known here at bct as frango (we were on Freshcoin together). But as frango's friends did not satisfy Loki so he went to Kotor Varosh, living at some biker's house for a while, from where he came back to Novi Sad. Next couple of months we somehow manage to deal with Loki's papers regarding his debt to the state, as he made a firm in his name to be able to stay in Serbia longer on behalf of the business. All that happened next in terms of ours/Loki's obligations was missed again a few times, so by the third overdue of time allowed to stay for a foreigner, we were forced to pay penalties, and diva was forced to leave the country for at least 2 months. That happened a year ago when Loki start a new stage of his pilgrimage.
+Because he did not have anyone to host him here in Europe and I could not find anyone to host him, I had an idea to send him to Malta as there is probably wormer and there are few friends of mine and some other friends of friends. A lot of Serbs in Malta, everybody knows that. The airplane ticket was not so expensive, around 200e, but Loki started the trip with less than 100EUR, with retardation from his side, not checking in the day earlier and paying 50EUR at BEG. So he arrives with less than 30, first meal and tobacco, empty pocket on the first step. Sadly my friend there was in his situation, being the host of some strip bar and in the moment of entering the new apartment with a nazi landlord, was not able to set a place for Loki to sleep.
+
+
+
+Before we continue to be clear about those "retardations". It is straightforward to understand. Loki is socially retarded, I am emotionally retarded, but we both suffer from an egoistical-borderline narcissistic antisocial obsessive-compulsive paranoically avoidant schizoid personality disorder.
+So, in the moment of arranging some accommodation in Malta for Loki as he was not able to do anything there, I was pissed off at him very much and we had conflict again, but somehow manage to put him in some group accommodation for that night. The next days are the beginnings of Loki's hell as we quit talking and he had not even 10EUR. After a few days of Lokis's hobbing, I saw a cheap airplane to Utrecht for 15EUR. I bought him the ticket because he has Dutch papers so he can use some stuff there for free. Again days of Loki's hell at Netherlands soil. At that time I did not have anyone there, or there were some people I know who are not capable to sustain the Lokistein. After dozen of movements from location to location, from Saint Dolores shelters to who knows where he slept some evenings, and the worst thing was it was January. Somehow we engage in talk again and I arrange Bratislava as the next stop on way to Novi Sad. The guy with a name like mine, with who I spent most of my childhood and many days as an adult, to whom I was even the best man, is located in Bratislava with his family.  So it was of strategic importance to have someone to support and help our star. We arrange for him some Wild Elephants Hostel in Bratislava's downtown.
+After the time the judge in Serbia gave for Loki's gulag expired he get back to Novi Sad with lice and corona. Corona was not the problem in those days as we both had just 2 days temperature 39C and regularly not seen before only corona reserved symptoms, how big issue the Bulgarian guy had with lice. I still smell oregano oil! Probably I also had them as we were sharing everything. I rent him the mother of mine for free. Spring was there and as there was the escalation in media coverage of the China virus Serbian government lock us down all. You have no idea in which kind of extreme puppet government type country I live.
+
+
+
+Maybe if you ever saw the "Airplane" movie you can multiply that measurement of an idiocracy level with 666 and you will get an exponent of evil within the soul of my fellow countrymen in charge.
+Then corona started more seriously, people were falling from the sky, tens of millions of infected people, and a few hundred-thousands deaths per day in my hometown with less than half a million people. Thing is, our false government is so false that they even made all that fraud so ridicule, my exaggerations are just a little bit exaggerated from Serbia's mainstream media at that time. Loki walks barefoot on the show but, I had corona 80% of evenings from April in the period from 23h-01h. Even now I have corona. What how? Man! I am a trans-generic mutagen positive, so my strain in defragmented each night, by that mutated to auto-camouflaged structures, which many "not so well educated from the world's health organization" thinks it is just the simple flu or cold or even it can look like a broken bone. Don't be fool believing there are any other illnesses anymore.
+
+
+
+We were in absolute lockdown during some weekends and even some working days. Most of the time lockdown was starting at 18h-20h till 5h, so any kind of usual live activities stop in almost all fields of the system. What the truck around 22h was looking in front of my house with the cellular base station I still don't understand entirely. All people start acting strange. Loki made one incident by going to a gas station in time of the lockdown, because of the possibility of paying a fine to cops if they see you. It was unharmful as no one saw him on the streets, but I pissed off very much. After a few weeks or a month, after making measures softer, the government suddenly announced a whole day lockdown, as bad luck as it can be, in the time when our Romeo found some gypsy girl 20KM away from Novi Sad. With the intention of spraying with semen all over the poor gypsy girl's belly our, in that time, rusted dick hero, decide to go to her place. I said no, but he did not care, as in those moments I become someone who enslaves crazy Aussies breaking the first law of the guaranteed right to reproduce. He left and came back the day after, walking back 20KM in time of lockdown. As I was pissed off at almost the maximum of my capabilities, his attitude on the whole situation was contra-productive, and we engaged in a physical conflict where he got the bad side of the stick. In this case, we are talking literally about a stick, which left from an old broom.
+Again, we have Loki on a runaway, fortunately, to the location he knew well so he managed somehow to settle after a dozen issues he had at the entrance in Bulgaria.
+Next few months we had a really cold period in the ParallelCoin's development, which can be seen at cryptomiso.com.
+In the meantime, comrade Garac appeared in my life, and by listening to my madness decided to find Loki somehow. At that time I had no idea where Loki was exactly, just knowing he had some arrangement with Mr.Gadikian. Garac manages to bring Loki back to the development of our project even I did not know what is happening and what was the plan. The next step was to bring back Loki to Serbia. Believe it or not, that step is happening today, as I am writing this. When I publish this it will mean I started my trip to Belgrade to pickup  Loki from Garac, as all organizations happened last night because of fake news lockdown. I still have no idea what is happening.
+
+This is ok, I wrote we are releasing 99.98% pure Go programming language source code, and then I wrote a short scenario for a good thriller based on the true story. Yes, remember "ParallelCoin - True Story".
+
+Let's be constructive and put some data together and see what we can do with that.
+The whole goal of this project is not to discover hot water but rather just to show how we can boil things the easier way. In this case, Go is water, my friend, as Bruce would say.
+At the time when I chose Go as something which will be the base technology for my ideas, I had no clue that things will develop in that manner. At this moment many ideas grew up from Go as ground-breaking technologies. From spectacular easiness of writing any kind of API middleware to the simplicity of container management or network infrastructure control handling operations.
+For example, to write a simple web server, which server static HTML files from a folder you need just a single line of code. Ok, it is more lines of code if you count "package main" two imports, main function name, and curly braces. If you make a few handlers and database connections, as easy as in few lines of code, you already have created very simple cms.
+Content management system on a distributed worldwide web is the road where we should go with Go.
+Combining all that we mentioned earlier in this text with InterPlanetary File System and InterPlanetary Linked Data, through the usage of new interfaces for displaying data, we are able to create new concepts of the distributed operating systems.
+To understand what we will talk about we need to understand a few important things, like what is an operating system at all, what is an application, what means server or client, etc.
+Most of you when is said "operating system" think of something like Windows or macOS, or in better cases IOS or Android, or even some of Linux distributions. Although you are somehow right, from another side what you meant by that is only what you see, and that is just a graphical interface to an operating system. For example, on Linux or generally Unix-based operating systems you can use a variety of graphical interfaces. From pure console login terminal-based control, over a dozen window drawers, and many complete window management solutions, like Gnome or KDE, or XFCE, etc...
+The true heart of an operating system is the kernel and, as the next level, userspace.
+As writing the whole kernel is not possible in the current stage of development of Go we will use FreeBSD as something which will allow our system to run as a standalone bootable USB distribution.
+The new ParallelCoin's wallet is written almost completely in Go, which means it's the graphical user interface is also written in Go. And by that doesn't mean it parses HTML and JavaScript to some Electron or other browser included, WebKit or other robust libraries, but pure Go functional programming experience in terms of immediate mode GUI programming.
+
+
+
+To cut long story short we are dealing with userspace on a distributed platform.
+What is the most important thing in those days?
+Security, of course!
+How you narrow down the possibilities of vulnerabilities?
+In most cases, you first cut parts from existing to limit things to level what you use, as in most cases whatever you do you use you end up with fucking Java dealing with client interfaces. Personally, I don't hide my disgust for Java and JavaScript, as I went through many bad mental phases because of those few.
+What if we can start from the other end and write only the things we need.
+Let's create one item which can be anything!
+The beauty of Go is that a variety of code written in many ways for many things can be very easily combined in most cases. What is best for our case is that most of the developing technologies in which we are closely engaged are written in Go. From Bitcoin itself, over Ethereum, to IPFS and many others from the crypto realm. We should not forget also great technologies which are also Go-based, like Kubernetes and Docker.
+OK, let's do a little bit of combining here and see what that means. It means that we can integrate all those technologies very easily. As we learned before all things we are dealing with here are managed over its interfaces, from the not visible engine of the application over API (Application Programming Interface) through the visible graphical interface for users interactions GUI (Graphical User Interface).
+
+As I am currently in hurry, as I need to go to Belgrade to pick up Lokistein, I am forced to cut this expose and to jump straight after the hard fork happens on ParallelCoin's network. After we have a stable GUI, I will start joining all other projects I already partially wrote which can be used for a small user interface. There are a few very interesting, like IPFS user interface, audio/video player, and the most important IPFS based content management system. All that can be seen on my GitHub repositories.
+To cut the story more and just explain one use case we can imagine writing a few interfaces for some miners, combined with CMS organization, allowing a standalone miner facility management system easy to build and maintain. I know, there are many things like that, but they all depend on something from which they don't need most of it.
+How is this different?
+Well, I will need to write a few days more to be able to represent the whole idea and the technical concept of realization.
+The most important thing to understand for now is that besides all-natural madness that occurred in the time of our nonlimited creativity dedicated to the masses there are really interesting innovative patents and very primitive and easy combinations of existing related technologies and that our passion is greater than at many communities altogether. I know many developers will recognize this at one moment when all gets well explained and presented with examples.
+
+
+
+Can you imagine how easy in the last days is to even boot the whole operating system from the network? Then imagine the whole operating system distributed and running on all electronic devices you got connected with a network cable or wirelessly, even working from an existing operating system in usage as an application of a current OS, with the user interface not based on HTML.
+Is such a thing even possible? Giorgio A. Tsoukalos would aks!
+We will talk more about Go and TinyGO... and yes, someone in the back shout Internet of Things!
+The whole new world has been opened and from solving "double-spend" to "BIOS as hash" it still left a few steps to be filled before full software cryptographic independence takes charge. The next step is the hardware, but I will not go there this time.
+
+...
+
+A true winner is one who got here understanding at least 38% of what I wanted to say and being able to count how many times Loki was mentioned in the text. Of course double click on this text count Tongue
+
+
